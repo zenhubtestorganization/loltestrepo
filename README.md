@@ -1,5 +1,3 @@
 # loltestrepo
 
 thisisatestrepo,plzignore
-
-wrldpeze
